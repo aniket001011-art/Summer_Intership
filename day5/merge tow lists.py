@@ -1,0 +1,7 @@
+a = list(input("Enter the first list elements--"))
+b = list(input("Enter the second list elements--"))
+print(a)
+print(b)
+b1 = a.copy()
+b1.extend(b)
+print(b1)

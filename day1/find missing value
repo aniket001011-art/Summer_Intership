@@ -1,0 +1,13 @@
+data= [1,2,4,5,6]
+
+total= 0
+
+for num in data:
+    total+=num
+print(f"The Main Total ---{total}")
+
+expected_sum = ( max(data) * (max(data)+1)) //2
+
+print("expected sum" , expected_sum)
+hq = expected_sum-total
+print(f"The Expected Total -- {hq}")

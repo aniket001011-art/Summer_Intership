@@ -1,0 +1,17 @@
+# list1 = [[1],[2,3],[4,5]]
+# list2= []
+# for i in list1:
+#     for j in i:
+#         list2.append(j)
+# print(list2)
+
+flatten= [[1],[2,[3,4],[5]]]
+list3= []
+for i in flatten:
+    for j in i:
+        if type(j)== list:
+            for k in j:
+                list3.append(k)
+        else:
+            list3.append(j)
+print(list3)

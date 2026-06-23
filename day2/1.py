@@ -1,0 +1,5 @@
+name = input("enter your Name: ")
+age = int(input("Enter your Age: "))
+mail = input("enter your mail Id: ")
+print("hello world!")
+print(f"{name} is {age} year old and your mail id is {mail}.")

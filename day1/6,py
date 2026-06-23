@@ -1,0 +1,5 @@
+a = int(input("enter the value of a:"))
+b = int(input("enter the value of b:"))
+a,b=b,a
+print("value of a after swap:",a)
+print("value of b after swap:",b)
