@@ -1,0 +1,13 @@
+Country,State,City,Customer,Sales
+India,Punjab,Chandigarh,Alice,1200
+India,Punjab,Ludhiana,Bob,950
+India,Haryana,Gurugram,Charlie,1500
+India,Haryana,Faridabad,David,800
+USA,California,Los Angeles,Eva,2100
+USA,California,San Francisco,Frank,2500
+USA,Texas,Dallas,Grace,1800
+USA,Texas,Houston,Henry,1700
+Canada,Ontario,Toronto,Ivy,1600
+Canada,British Columbia,Vancouver,Jack,1900
+Canada,Ontario,Ottawa,Kate,1400
+Canada,British Columbia,Victoria,Leo,1300

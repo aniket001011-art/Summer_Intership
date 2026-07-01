@@ -1,0 +1,9 @@
+,CustomerID,CustomerName,City,OrderID,ProductID,Quantity,OrderDate,ProductName,Category,Price
+0,C001,Rahul,Delhi,1001,P101,2,2024-01-05,Laptop,Electronics,60000
+1,C001,Rahul,Delhi,1004,P104,1,2024-02-01,Monitor,Electronics,12000
+2,C002,Priya,Mumbai,1002,P102,1,2024-01-10,Mouse,Electronics,700
+3,C003,Amit,Pune,1003,P103,3,2024-01-12,Keyboard,Electronics,1500
+4,C005,Rohan,Hyderabad,1005,P101,4,2024-02-15,Laptop,Electronics,60000
+5,C006,Simran,Delhi,1006,P102,2,2024-03-01,Mouse,Electronics,700
+6,C007,Karan,Chennai,1007,P105,1,2024-03-11,Printer,Electronics,8000
+7,C008,Aisha,Mumbai,1008,P103,5,2024-04-02,Keyboard,Electronics,1500

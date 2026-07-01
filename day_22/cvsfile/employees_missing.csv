@@ -1,0 +1,8 @@
+EmployeeID,Name,Department,Salary,City
+101,Alice,HR,50000.0,Delhi
+102,Bob,IT,,Mumbai
+103,Charlie,,85000.0,Bangalore
+104,David,Finance,65000.0,
+105,Eva,HR
+,,Delhi
+106,Frank,Finance,72000.0,Chennai

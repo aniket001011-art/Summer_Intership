@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,Age,City,JoiningDate
+101,Alice,HR,50000,28,Delhi,2022-01-15
+102,Bob,IT,70000,30,Mumbai,2021-03-20
+103,Charlie,IT,85000,35,Bangalore,2020-06-11
+104,David,Finance,65000,32,Pune,2019-09-05
+105,Eva,HR,52000,27,Delhi,2023-02-10
+106,Frank,Finance,72000,40,Chennai,2018-07-01
+107,Grace,IT,90000,29,Hyderabad,2021-10-21
+108,Harry,Sales,48000,26,Delhi,2023-01-30
+109,Ivy,Sales,55000,31,Mumbai,2022-04-19
+110,Jack,Marketing,60000,34,Bangalore,2020-12-12
